@@ -1,0 +1,10 @@
+[mysqld]
+# 最大连接数
+max_connections = 200
+
+# 临时表大小
+tmp_table_size = 64M
+max_heap_table_size = 64M
+
+# 最大允许的数据包大小
+max_allowed_packet = 64M

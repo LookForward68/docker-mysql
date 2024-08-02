@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50c5b43f-59ec-4dc7-a320-d96275c89748" name="更改" comment="Merge remote-tracking branch 'origin/master'">
-      <change beforePath="$PROJECT_DIR$/data/install-docker.sh" beforeDir="false" afterPath="$PROJECT_DIR$/install-docker.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/conf.d/innodb.cnf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/conf.d/performance.cnf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/conf.d/cache.cnf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/conf.d/general.cnf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/conf.d/logging.cnf" beforeDir="false" afterPath="$PROJECT_DIR$/data/conf.d/logging.cnf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/conf.d/replication.cnf" beforeDir="false" afterPath="$PROJECT_DIR$/data/conf.d/connections.cnf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/conf.d/security.cnf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/etc/my.cnf" beforeDir="false" afterPath="$PROJECT_DIR$/data/etc/my.cnf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mysql.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +67,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\docker-mysql" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -74,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722615979418</updated>
-      <workItem from="1722615980622" duration="1930000" />
+      <workItem from="1722615980622" duration="3000000" />
     </task>
     <task id="LOCAL-00001" summary="conf">
       <option name="closed" value="true" />
@@ -108,7 +122,23 @@
       <option name="project" value="LOCAL" />
       <updated>1722617807254</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1722617982161</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1722617982161</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1722618043720</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1722618043720</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

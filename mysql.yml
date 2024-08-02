@@ -15,3 +15,4 @@ services:
       - ./data/mysql:/var/lib/mysql
       - ./data/conf.d/:/etc/mysql/conf.d/
       - ./data/etc/my.cnf:/etc/my.cnf
+      - ./data/logs:/var/log/mysql/

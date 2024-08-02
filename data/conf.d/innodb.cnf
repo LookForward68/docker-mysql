@@ -1,0 +1,12 @@
+[mysqld]
+# InnoDB 缓冲池大小
+innodb_buffer_pool_size = 1G
+
+# InnoDB 日志文件大小
+innodb_log_file_size = 256M
+
+# InnoDB 文件格式
+innodb_file_format = Barracuda
+
+# InnoDB 表空间
+innodb_file_per_table = 1

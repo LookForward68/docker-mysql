@@ -1,5 +1,0 @@
-[mysqld]
-max_connections = 2048
-max_connect_errors=1000
-max_allowed_packet = 1G
-expire_logs_days = 5

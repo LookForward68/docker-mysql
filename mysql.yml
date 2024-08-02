@@ -4,7 +4,7 @@ services:
     container_name: mysql
     image: mysql:8.0
     environment:
-      - TZ=America/Hong_Kong
+      - TZ=Asia/Shanghai
       - MYSQL_ROOT_PASSWORD=12345678
       - explicit_defaults_for_timestamp=true
       - lower_case_table_names=1
